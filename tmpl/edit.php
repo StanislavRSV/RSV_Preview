@@ -33,7 +33,7 @@ JCckDev::get( $fieldClassMod, htmlspecialchars( @$options2['classmodal'] ), $con
 		 <li class="w50">
 			 <div id="modal-txt1">
 				 <p>
-				 <b>No</b> - в этом режиме материал открывается в новой вкладке браузера. <b>Yes</b> - в этом режиме материал открывается в модальном окне. Использется <a href="https://getuikit.com/docs/modal" target="_blank">framework Uikit 3</a>, если устанавлен.
+				 <b>No</b> - open in a new browser tab. <b>Yes</b> - open in a modal window (use <a href="https://getuikit.com/docs/modal" target="_blank">framework Uikit 3</a>, if installed)
 				 </p>
 			 </div>		 
 		 </li>	
@@ -46,7 +46,7 @@ JCckDev::get( $fieldClassMod, htmlspecialchars( @$options2['classmodal'] ), $con
 		<li class="w50">
 			 <div id="modal-txt2">
 				 <p>
-				 <b>uk-modal-full</b> - модальное окно на весь экран. <b>uk-modal-container</b> - модальное окно в контейнере.
+				 <b>uk-modal-full</b> - full screen modal window, <b>uk-modal-container</b> - modal window in a container
 				 </p>
 			 </div>		 
 		 </li>	
