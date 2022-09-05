@@ -66,8 +66,6 @@ class plgCCK_FieldRsvpreview extends JCckPluginField
 		
 		// Set
 		$field->value	=	$value;
-		
-		
 	}
 	
 	// onCCK_FieldPrepareForm
